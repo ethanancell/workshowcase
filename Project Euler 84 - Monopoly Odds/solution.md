@@ -28,4 +28,4 @@ Project Euler requires an answer in the form of "XXYYZZ" where XX, YY, ZZ corres
 # Output
 We discover that squares 10, 15, and 25 are the most visited squares, making 101524 our desired modal string.
 
-![Program Output](/images/projecteuler84output.png)
+![Program Output](images/projecteuler84output.png)
