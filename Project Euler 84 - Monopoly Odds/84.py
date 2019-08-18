@@ -152,7 +152,7 @@ for i in range(0, 40):
 board_sorted = sorted(board_dict.items(), reverse=True, key = lambda kv:(kv[1], kv[0]))
 print("Most commonly landed upon spots:")
 for i in board_sorted:
-    print(f"Square: {i[0]}  |  Percentage: {i[1]}%")
+    print(f"Square: {i[0]}{' '*(i[0]<10)} |  Percentage: {round(i[1], 2)}%")
 
 # Print modal string required for project euler solution
 print("\nThe modal string required by Project Euler will be:")

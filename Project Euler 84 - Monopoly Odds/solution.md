@@ -24,3 +24,8 @@ We repeat 500,000 player rolls and record the ending position after each roll by
 Finally, we pack the board positions into a dictionary so that we can sort by the value but retain the index associated with the board square and then sort. We display those in a human friendly manner.
 
 Project Euler requires an answer in the form of "XXYYZZ" where XX, YY, ZZ correspond to the integer representation of the top three most visited board locations when four-sided dice are used. This is printed out in the program's conclusion.
+
+# Output
+We discover that squares 10, 15, and 25 are the most visited squares, making 101524 our desired modal string.
+
+![Program Output](/images/projecteuler84output.png)
