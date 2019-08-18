@@ -10,11 +10,11 @@ In addition to G2J, and one card from each of CC and CH, that orders the player 
 
 At the beginning of the game, the CC and CH cards are shuffled. When a player lands on CC or CH they take a card from the top of the respective pile and, after following the instructions, it is returned to the bottom of the pile. There are sixteen cards in each pile, but for the purpose of this problem we are only concerned with cards that order a movement; any instruction not concerned with movement will be ignored and the player will remain on the CC/CH square.
 
-Community Chest (2/16 cards):
+##Community Chest (2/16 cards):
 1. Advance to GO
 1. Go to JAIL
 
-Chance (10/16 cards):
+##Chance (10/16 cards):
 1. Advance to GO
 1. Go to JAIL
 1. Go to C1
