@@ -1,14 +1,3 @@
 Monopoly
 
-GO|A1|CC1|A2|T1|R1|B1|CH1|B2|B3|JAIL
---|--|---|--|--|--|--|---|--|--|----
-H2| 	|  |  |  |  |                       C1
-T2	 	U1
-H1	 	C2
-CH3	 	C3
-R4	 	R2
-G3	 	D1
-CC3	 	CC2
-G2	 	D2
-G1	 	D3
-G2JF3	U2	F2	F1	R3	E3	E2	CH2	E1	FP
+![Monopoly Board](/images/monopolyboard.png)
