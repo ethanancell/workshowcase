@@ -13,6 +13,7 @@ At the beginning of the game, the CC and CH cards are shuffled. When a player la
 Community Chest (2/16 cards):
 1. Advance to GO
 1. Go to JAIL
+
 Chance (10/16 cards):
 1. Advance to GO
 1. Go to JAIL
